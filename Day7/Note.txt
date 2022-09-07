@@ -1,0 +1,4 @@
+list=[]
+list=list+"a"
+print(list)
+=>['a']

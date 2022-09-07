@@ -1,0 +1,23 @@
+defining function
+def name_function(x):
+    code...
+    code...
+=>x is argument, it's may have or name_function
+=>code inside the function will be execute when call it 
+
+calling function
+name_function(x)
+=> call out the function and implement it
+
+for i in range(a,b):
+    #do something
+=> can control the iteration through a,b
+=> the loop end when it reaches to b
+
+for i in list():
+    #do something 
+=> the loop end when it pointed all elements inside the list
+
+while condition_is_true:
+=> the iteration till move on until the condition is false
+=> to stop the iteration, we need to set up the trap is kind of making condition false

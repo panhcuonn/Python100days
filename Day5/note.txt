@@ -1,0 +1,12 @@
+for x in var:
+=> x[0] = var[0].. x[n]=var[n]/ repeat n time
+
+for x in range(a,b) / {a<b}
+=> x[a]=a... x[b-1]=b-1/ repeat b-a time
+
+for x in range(a,b,c) / {a<b} c=step
+=> x[a]=a -> x[a+2]=a+2 a[b-1]=b-1/ repeat (b-a)/c time
+
+c=0
+for i in range(a,b)
+=> i=b-1 / c=(b+a)/2
